@@ -4,4 +4,4 @@
 
 ## LASSO REGRESSION
 ## I make to students performance analysis with the lasso regression.
-## ı used linear kernel.
+## ı used linear kernel. Because that was to way to the optimal result. 
